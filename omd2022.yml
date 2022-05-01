@@ -1,0 +1,20 @@
+name: omd2022
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8.5
+  - pip
+
+  # Machine learning
+  - pandas
+  - numpy
+  - scikit-learn
+  - statsmodels
+  - xgboost
+
+  # Plotting
+  - matplotlib
+  - seaborn
+  - jupyterlab
