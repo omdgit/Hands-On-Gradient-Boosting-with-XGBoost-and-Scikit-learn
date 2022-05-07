@@ -17,4 +17,6 @@ dependencies:
   # Plotting
   - matplotlib
   - seaborn
+
+  # Development Environment
   - jupyterlab
