@@ -1,3 +1,6 @@
+
+
+
 # Hands-On Gradient Boosting with XGBoost and scikit-learn
 
 <a href="https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354"><img src="https://static.packt-cdn.com/products/9781839218354/cover/smaller" alt="Hands-On Gradient Boosting with XGBoost and scikit-learn" height="256px" align="right"></a>
@@ -58,3 +61,7 @@ M.S. Mathematics, M.F.A. Writing and Consciousness, is the founder and director 
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839218354">https://packt.link/free-ebook/9781839218354 </a> </p>
